@@ -33,4 +33,4 @@ addStyle(css);
 //# sourceMappingURL=453.8ab44547.chunk.js.map
 
 
-})
+})()
