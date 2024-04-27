@@ -12,7 +12,7 @@
     }
 }
 var reactAppContainer = document.createElement('div');
-reactAppContainer.id = 'root2';
+reactAppContainer.id = 'root';
 document.body.appendChild(reactAppContainer);
 
 
