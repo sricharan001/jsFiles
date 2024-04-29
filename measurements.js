@@ -13,6 +13,8 @@
 }
 var reactAppContainer = document.createElement('div');
 reactAppContainer.id = 'root2';
+reactAppContainer.style.overflow = 'scroll';
+reactAppContainer.style.width = '50%';
 document.body.appendChild(reactAppContainer);
 
 
